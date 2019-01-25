@@ -48,8 +48,8 @@ We tag the information manually to identify the type and bounding box for each p
         * Explain on the distribution of work between your team
 
 # Our Support
-You can look for us in the venue or ask questions in Slack group
-https://join.slack.com/t/cityuhackathon-bnp/shared_invite/enQtNTM0Mzg1NDAyMzc0LTI3ODk0MThiZTJkMzgxMjFkZTBjZjcyZWJmYjIzZDkyMWRiMjVkNTZmNWIyNGQ3NjExYjliYTY5N2ZiYTFjYTQ
+You can look for us in the venue or ask questions in [Slack group](https://join.slack.com/t/cityuhackathon-bnp/shared_invite/enQtNTM0Mzg1NDAyMzc0LTI3ODk0MThiZTJkMzgxMjFkZTBjZjcyZWJmYjIzZDkyMWRiMjVkNTZmNWIyNGQ3NjExYjliYTY5N2ZiYTFjYTQ)
+
 
 # Agreement and Disclaimer
 'Data' means the Data or Datasets linked from the Github repository, “CityU-Hackathon-2019”, for the purpose of use by Participants in the Competition, “CityHack 2019”. For the avoidance of doubt, Data is deemed for the purpose of developing any prototype or executable code by Participants. Participants must use the Data only as permitted by any associated data use rules specified as follows. 
