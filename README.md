@@ -17,7 +17,9 @@ Task: Extract Information from Annual Report for Account Opening Purpose
 
 ## Data Description
 Data Source: Singapore Stock Exchange
+
 Training dataset: 40 annual reports (PDF, HOCR, Information tagged JSON)
+
 Testing dataset: 4 annual reports (PDF, HOCR)
 
 ### PDF
