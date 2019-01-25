@@ -1,8 +1,6 @@
-
-
 City University Hackathon 2019 
 =============
-Task: To Extract Information from Annual Report for Account Opening Purpose 
+Task: Extract Information from Annual Report for Account Opening Purpose 
 =============
 
 ## Information to be extracted
@@ -46,5 +44,3 @@ We tag the information manually to identify the type and bounding box for each p
     2. Answer the following questions
         * How do you prioritize the information extracted?
         * Explain on the distribution of work between your team
-
-
