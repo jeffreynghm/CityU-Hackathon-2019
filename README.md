@@ -49,6 +49,7 @@ We tag the information manually to identify the type and bounding box for each p
 
 # Our Support
 You can look for us in the venue or ask questions in [Slack group](https://join.slack.com/t/cityuhackathon-bnp/shared_invite/enQtNTM0Mzg1NDAyMzc0LTI3ODk0MThiZTJkMzgxMjFkZTBjZjcyZWJmYjIzZDkyMWRiMjVkNTZmNWIyNGQ3NjExYjliYTY5N2ZiYTFjYTQ)
+
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/slack-QR.png)
 
 # Agreement and Disclaimer
