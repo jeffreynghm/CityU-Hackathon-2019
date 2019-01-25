@@ -25,17 +25,17 @@ Testing dataset: 4 annual reports (PDF, HOCR)
 ### PDF
 Downloaded from Singapore Stock Exchange (http://www.sgx.com/)
 
-![picture alt](https://github.com/kelvinyinhei/CityU-Hackathon/blob/master/ReadMe_pictures/Picture_PDF.png)
+![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_PDF.png)
 
 ### HOCR
 HOCR is the output from optical character recognition tool, Tesseract OCR. It includes text recognized and coordinates of bounding box of the text.
 
-![picture alt](https://github.com/kelvinyinhei/CityU-Hackathon/blob/master/ReadMe_pictures/Picture_HOCR.png)
+![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_HOCR.png)
 
 ### Information tagged JSON
 We tag the information manually to identify the type and bounding box for each piece of information in the pages of Independent Auditor Report and Financial Statement
 
-![picture alt](https://github.com/kelvinyinhei/CityU-Hackathon/blob/master/ReadMe_pictures/Picture_JSON.png)
+![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_JSON.png)
 
 ## Deliverables
 1. Submit your code to the GitHub repository https://github.com/cityu-hall2/CityHack2019_submissions
