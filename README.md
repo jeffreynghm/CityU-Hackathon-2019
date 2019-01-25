@@ -16,7 +16,7 @@ Task: Extract Information from Annual Report for Account Opening Purpose
    4. Currency of financial items
 
 ## Data Description
-Data Source: Singapore Stock Exchange
+Data Source: Publicly available annual reports in Singapore Stock Exchange
 
 Training dataset: 40 annual reports (PDF, HOCR, Information tagged JSON)
 
