@@ -39,6 +39,10 @@ We tag the information manually to identify the type and bounding box for each p
 
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_JSON.png)
 
+This is how we tagged it.
+
+![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_tagged.png)
+
 ## Deliverables
 1. Submit your code to the GitHub repository https://github.com/cityu-hall2/CityHack2019_submissions
 
