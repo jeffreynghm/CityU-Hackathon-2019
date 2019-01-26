@@ -28,12 +28,13 @@ Downloaded from Singapore Stock Exchange (http://www.sgx.com/)
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_PDF.png)
 
 ### HOCR
-HOCR is the output from optical character recognition tool, Tesseract OCR. It includes text recognized and coordinates of bounding box of the text. The bounding box of HOCR "bbox" is x0 (left), y0 (top), x1 (right) and y1 (bottom).
+HOCR is the output from optical character recognition tool, Tesseract OCR. It includes text recognized and coordinates of bounding box of the text. The bounding box of HOCR "bbox" is x0 (left), y0 (top), x1 (right) and y1 (bottom). The classes include "ocr_par", "ocr_line" and "ocrx_word" which are paragraph, line and word. The "x_wconf" is the confidence of recognizing the word.
+[HOCR Description](https://en.wikipedia.org/wiki/HOCR)
 
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_HOCR.png)
 
 ### Information tagged JSON
-We tag the information manually to identify the type and bounding box for each piece of information in the pages of Independent Auditor Report and Financial Statement
+We tag the information manually to identify the type and bounding box for each piece of information in the pages of Independent Auditor Report and Financial Statement. The pt1 and pt2 are bounding box coordinate of top-left and bottom-right points.
 
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_JSON.png)
 
