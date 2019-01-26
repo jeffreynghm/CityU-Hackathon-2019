@@ -28,7 +28,7 @@ Downloaded from Singapore Stock Exchange (http://www.sgx.com/)
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_PDF.png)
 
 ### HOCR
-HOCR is the output from optical character recognition tool, Tesseract OCR. It includes text recognized and coordinates of bounding box of the text.
+HOCR is the output from optical character recognition tool, Tesseract OCR. It includes text recognized and coordinates of bounding box of the text. The bounding box of HOCR "bbox" is x0 (left), y0 (top), x1 (right) and y1 (bottom).
 
 ![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_HOCR.png)
 
