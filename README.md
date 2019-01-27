@@ -25,26 +25,25 @@ Testing dataset: 4 annual reports (PDF, HOCR)
 ### PDF
 Downloaded from Singapore Stock Exchange (http://www.sgx.com/)
 
-![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_PDF.png)
+
 
 ### HOCR
 HOCR is the output from optical character recognition tool, Tesseract OCR. It includes text recognized and coordinates of bounding box of the text. The bounding box of HOCR "bbox" is x0 (left), y0 (top), x1 (right) and y1 (bottom). The classes include "ocr_par", "ocr_line" and "ocrx_word" which are paragraph, line and word. The "x_wconf" is the confidence of recognizing the word.
 
 [HOCR Description](https://en.wikipedia.org/wiki/HOCR)
 
-![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_HOCR.png)
 
 ### Information tagged JSON
 We tag the information manually to identify the type and bounding box for each piece of information in the pages of Independent Auditor Report and Financial Statement. The "pt0" and "pt1" are bounding box coordinate of top-left and bottom-right points. The "entityType" is the type of information.
 
-![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_JSON.png)
+
 
 This is how we tagged it.
 
-![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/Picture_tagged.png)
+
 
 ## Deliverables
-1. Submit your code to the GitHub repository https://github.com/cityu-hall2/CityHack2019_submissions
+1. Submit your code to the GitHub repository 
 
 2. Presentation
     1. Run the application to extract information from the 4 testing annual reports
@@ -54,9 +53,9 @@ This is how we tagged it.
         * Explain on the distribution of work between your team
 
 # Our Support
-You can look for us in the venue or ask questions in [Slack group](https://join.slack.com/t/cityuhackathon-bnp/shared_invite/enQtNTM0Mzg1NDAyMzc0LTI3ODk0MThiZTJkMzgxMjFkZTBjZjcyZWJmYjIzZDkyMWRiMjVkNTZmNWIyNGQ3NjExYjliYTY5N2ZiYTFjYTQ)
+You can look for us in the venue or ask questions in
 
-![picture alt](https://github.com/jeffreynghm/CityU-Hackathon-2019/blob/master/ReadMe_pictures/slack-QR.png)
+
 
 # Agreement and Disclaimer
 'Data' means the Data or Datasets linked from the Github repository, “CityU-Hackathon-2019”, for the purpose of use by Participants in the Competition, “CityHack 2019”. For the avoidance of doubt, Data is deemed for the purpose of developing any prototype or executable code by Participants. Participants must use the Data only as permitted by any associated data use rules specified as follows. 
